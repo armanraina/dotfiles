@@ -23,7 +23,8 @@
   },
   {
     "shell": [
-      ["git submodule update --init --recursive", "Installing Submodules"]
+      ["git submodule update --init --recursive", "Installing Submodules"],
+      ["mkdir -p ~/.vimbackup ~/.vimswaps", "Making directories for temporary vim files"]
     ]
   }
 ]
