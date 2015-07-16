@@ -10,7 +10,13 @@
       "~/.bashrc": "bashrc",
       "~/.exports": "exports",
       "~/.functions": "functions",
-      "~/.profile": "profile"
+      "~/.gitconfig": "gitconfig",
+      "~/.gitignore": "gitignore",
+      "~/.gvimrc": "gvimrc",
+      "~/.hushlogin": "hushlogin",
+      "~/.inputrc": "inputrc",
+      "~/.profile": "profile",
+      "~/.wgetrc": "wgetrc"
     }
   },
   {
