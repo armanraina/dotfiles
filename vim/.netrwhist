@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/DuncanKeith/.Trash'
+let g:netrw_dirhist_2='/Users/DuncanKeith/.dotfiles/dotfiles/vim/autoload'
+let g:netrw_dirhist_3='/Users/DuncanKeith/.dotfiles/dotfiles/vim/plugin'

@@ -16,6 +16,8 @@
       "~/.hushlogin": "hushlogin",
       "~/.inputrc": "inputrc",
       "~/.profile": "profile",
+      "~/.vim": "vim",
+      "~/.vimrc": "vimrc",
       "~/.wgetrc": "wgetrc"
     }
   },
