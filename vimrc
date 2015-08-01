@@ -36,6 +36,7 @@ endif
 " Settings for indenting "
 set cindent
 set expandtab
+autocmd FileType make setlocal noexpandtab
 set autoindent
 set shiftwidth=2
 " Don’t create backups when editing files in certain directories
