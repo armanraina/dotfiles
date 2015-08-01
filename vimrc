@@ -39,6 +39,7 @@ set expandtab
 autocmd FileType make setlocal noexpandtab
 set autoindent
 set shiftwidth=2
+filetype plugin indent on
 " Don’t create backups when editing files in certain directories
 set backupskip=/tmp/*,/private/tmp/*
 " Respect modeline in files
