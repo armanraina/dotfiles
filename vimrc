@@ -45,6 +45,10 @@ set backupskip=/tmp/*,/private/tmp/*
 " Respect modeline in files
 set modeline
 set modelines=4
+"Tells supetabe to use keywoard completion unless I'm attempting to access"
+"a member of an object or class"
+let g:SuperTabDefaultCompletionType = 'context'
+let g:EclimCompletionMethod = 'omnifunc'
 " Enable per-directory .vimrc files and disable unsafe commands in them
 set exrc
 set secure
